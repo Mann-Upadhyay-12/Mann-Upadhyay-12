@@ -13,7 +13,7 @@ I am surely master of many topics but gladly my curiosity doesn't prevent me fro
 - Low-Level Programming 
 - Web Development (Frontend + Backend + Database + Cloud)  
 - App Development
-- 
+- <!-- (it symbolises im doing much more than what im showing tho i don't think anyone will understand me) -->
 
 ### Currently Exploring  
 - Kernel programming & OS concepts  
