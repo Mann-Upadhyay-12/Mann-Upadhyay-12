@@ -2,30 +2,27 @@
 
 **`Software Engineer`**  
 
-Hey there 👋 I'm Mann, a curious developer who loves exploring **everything from low-level system programming** to **building full-stack applications**.  
-I enjoy digging into how computers really work under the hood, while also creating projects that live on the web.  I don’t like limiting myself to just one label.  
-Whether it’s **writing efficient C code**, **designing backend systems**, or **crafting web apps**, I’m always learning, experimenting, and building. 
+Hello there! <!-- Obi wan kenobi -->
+I'm Mann Upadhyay , I LOVE low level programming , be it coding in C to make my own game engine , or fluid simulation logics to today's **trend(?)** web devops I LOVE doing that all
+I am surely master of many topics but gladly my curiosity doesn't prevent me from being the jack of all trades 
+
 
 ---
 
-### 🚀 What I Do  
-- ⚡ Low-Level Programming (C / C++)  
-- 🌐 Web Development (Frontend + Backend)  
-- 🛠️ Building projects that connect system-level logic with real-world apps  
+### What I Do  
+- Low-Level Programming 
+- Web Development (Frontend + Backend + Database + Cloud)  
+- App Development
+- 
 
-#
+### Currently Exploring  
+- Kernel programming & OS concepts  
+- More web dev because that is where i see majority of jobs these days
 
-### 🌱 Currently Exploring  
-- Systems programming & OS concepts  
-- Data structures and algorithms at a deeper level  
-- Expanding my full-stack skills with modern web tools  
 
-#
-
-### 💡 Philosophy  
-I don’t like limiting myself to just one label.  
-Whether it’s **writing efficient C code**, **designing backend systems**, or **crafting web apps**, I’m always learning, experimenting, and building.  
-
+### Philosophy  
+Whether it’s **writing efficient C code**, **writting**, **crafting web apps**, or anything that i find cool! 
+Always ready to find new things!
 #
 
 ### 📫 Reach Me At  
