@@ -1,6 +1,7 @@
 # Hello there
 <!-- Obi-Wan Kenobi! -->
 #, I'm Mann Upadhyay !
+
 **Software Engineering Student**
 
 I enjoy figuring out how things work. Whether it's operating systems, backend services, reinforcement learning, or some random idea that catches my attention, I usually end up building my own version just to understand what's happening under the hood.
