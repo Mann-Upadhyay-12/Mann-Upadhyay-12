@@ -1,6 +1,6 @@
 # Hello there
 <!-- Obi-Wan Kenobi! -->
-#, I'm Mann Upadhyay !
+# I'm Mann Upadhyay !
 
 **Software Engineering Student**
 
